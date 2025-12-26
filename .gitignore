@@ -27,7 +27,7 @@ go.work
 go.work.sum
 
 # Dependency directories
-# vendor/
+vendor/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -457,3 +457,4 @@ tests/scale-tests/FQM_LATENCY_TEST_PLAN.md
 tests/scale-tests/CONCURRENT_DRAIN_TEST_PLAN.md
 tests/scale-tests/results/*.csv
 tests/scale-tests/cmd/fqm-scale-test/results/
+
